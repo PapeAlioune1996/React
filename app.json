@@ -1,0 +1,12 @@
+{
+  "name": "ProjectReactapp",
+  "displayName": "ProjectReactapp",
+  "expo": {
+    "name": "ProjectReactapp",
+    "slug": "ProjectReactapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
